@@ -51,3 +51,7 @@ playerDidMove(direction2)
 playerDidMove(direction3)
 
 playerDidMove(.left)
+playerDidMove(Direction.left)
+
+//OK!
+
